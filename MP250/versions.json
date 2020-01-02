@@ -2,14 +2,14 @@
 	"revision" : 1,
 	"date" : "2020-01-02",
 	"url" : [
-		"http://ckbs-developers.github.io/MP250/versions.json",
-		"http://ckbs-developers.github.io/MP250/versions.json"
+		"https://ckbs-developers.github.io/MP250/versions.json",
+		"https://ckbs-developers.github.io/MP250/versions.json"
 	],
 	"updater": {
 		"ID": "com.ckbs.cap1.systemupdater",
 		"VERSION_NAME" : "1.0",
 		"VERSION_CODE": 1,
-		"PATH": "http://ckbs-developers.github.io/MP250/1.0/SystemUpdater.apk"
+		"PATH": "https://ckbs-developers.github.io/MP250/1.0/SystemUpdater.apk"
 	},
 	"ota_packages":[
 		{
