@@ -1,0 +1,25 @@
+{
+	"revision" : 1,
+	"date" : "2020-01-02",
+	"url" : [
+		"http://ckbs-developers.github.io/MP250/versions.json",
+		"http://ckbs-developers.github.io/MP250/versions.json"
+	],
+	"updater": {
+		"ID": "com.ckbs.cap1.systemupdater",
+		"VERSION_NAME" : "1.0",
+		"VERSION_CODE": 1,
+		"PATH": "http://ckbs-developers.github.io/MP250/1.0/SystemUpdater.apk"
+	},
+	"ota_packages":[
+		{
+			"DESCRIPTION": "System Update For CKBS Mini Projector 1\nThis Update is Test Package for System Updater",
+			"PATH": "http://www.canon-bs.co.kr/mp250/upgrade_MiniPJ_V1.0.4_USB.zip",
+			"BUILD": {			
+				"VERSION": {
+					"INCREMENTAL" : "20190815.165327"
+				}
+			}
+		}
+	]
+}
